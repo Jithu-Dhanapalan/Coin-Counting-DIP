@@ -1,0 +1,6 @@
+Image,Actual Count,Detected Count,Correct,Counting Accuracy (%)
+Image 1,5,5,True,100.0
+Image 2,7,7,True,100.0
+Image 3,8,8,True,100.0
+Image 4,10,9,False,90.0
+Image 5,6,6,True,100.0
